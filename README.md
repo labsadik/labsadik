@@ -1,25 +1,25 @@
 <!-- HEADER -->
-[![MasterHead](https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif)](https://github.com/unscriptedsadik)
+[![MasterHead](https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif)](https://github.com/labsadik)
 
-<h1 align="center">👋 Hey there, I'm <a href="https://onportfolio42.vercel.app" target="_blank">Sadik Laskar</a></h1>
-<h3 align="center">Software Development Engineer | Full-Stack Developer </h3>
+<h1 align="center">👋 Hey there, I'm <a href="https://profile.vercel.com" target="_blank">Sadik Laskar</a></h1>
+<h3 align="center">Software Development Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/unscriptedsadik"><img src="https://img.shields.io/badge/-Sadik%20Laskar-blue?style=flat-square&logo=LiLinkedinogoColor=white"/></a>
+  <a href="https://linkedin.com/in/unscriptedsadik"><img src="https://img.shields.io/badge/-Sadik%20Laskar-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:jr.sadiklaskar7@gmail.com"><img src="https://img.shields.io/badge/-jr.sadiklaskar7@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/unscriptedsadik"><img src="https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=leetcode"/></a>
-  <a href="https://onportfolio42.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-1DBF73?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="https://profile.vercel.com"><img src="https://img.shields.io/badge/-Portfolio-1DBF73?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🧭 About Me
 
-💡 Passionate about building scalable web applications and solving real-world problems with modern technologies.  
-🚀 Currently developing a **social media platform** integrating AI-driven engagement features.  
-🌱 Expanding my skills in **TypeScript, Next.js, GraphQL, Docker, PostgreSQL, and Supabase**.  
-🤝 Open to collaborating on **open-source projects** or contributing to innovative ideas.  
-🧠 Always learning and exploring new tech stacks to stay ahead of the curve.  
+💡 Focused on building scalable web applications and efficient system design.  
+🚀 Currently building a full-scale social media platform with AI-driven engagement.  
+🌱 Improving expertise in **TypeScript, Next.js, GraphQL, Docker, PostgreSQL, and Supabase**.  
+🤝 Interested in collaborating on entrepreneurial and open-source initiatives.  
+🧠 Continuous learner with a passion for modern engineering and architecture patterns.
 
 ---
 
@@ -34,12 +34,12 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unscriptedsadik&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unscriptedsadik&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=labsadik&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labsadik&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unscriptedsadik&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=labsadik&theme=tokyonight" alt="streak"/>
 </p>
 
 ---
@@ -47,32 +47,33 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=unscriptedsadik&theme=discord&margin-w=10&no-frame=true" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=labsadik&theme=discord&margin-w=10&no-frame=true" alt="trophies"/>
 </p>
 
 ---
 
 ## 📂 Featured Projects
 
-🔹 [**Social Media Platform (Next.js + Supabase)**](https://onportfolio42.vercel.app) – Scalable, full-stack social network built with modern tech.  
-🔹 [**Portfolio Website**](https://onportfolio42.vercel.app) – Personal portfolio showcasing projects and blogs.  
-🔹 [**Open Source Contributions**](https://github.com/unscriptedsadik?tab=repositories) – Explore my open-source work.  
+🔹 [**Social Media Platform (Next.js + Supabase)**](https://profile.vercel.com) – A modern and scalable platform.  
+🔹 [**Portfolio Website**](https://profile.vercel.com) – A professional showcase of work and experience.  
+🔹 [**Open Source Contributions**](https://github.com/labsadik?tab=repositories) – Explore contributions and projects.
 
 ---
 
 ## 📝 Blog & Resume
 
-- ✍️ **Articles:** [onportfolio42.vercel.app/blog](https://onportfolio42.vercel.app/blog)  
-- 📄 **Resume:** [onportfolio42.vercel.app/resume](https://onportfolio42.vercel.app/resume)  
+- ✍️ **Articles:** [profile.vercel.com/blog](https://profile.vercel.com/blog)  
+- 📄 **Resume:** [profile.vercel.com/resume](https://profile.vercel.com/resume)  
 
 ---
 
 ## ☕ Fun Fact
-I believe great code deserves great coffee — so if you like my work, you can literally *buy me one!* 🤗  
+
+Great software is often powered by great coffee.
 
 ---
 
 <p align="center">
-  <b>💬 Let’s connect and build something amazing together!</b><br/>
+  <b>💬 Let’s connect and build something meaningful.</b><br/>
   <a href="https://linkedin.com/in/unscriptedsadik"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
