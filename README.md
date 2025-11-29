@@ -15,11 +15,11 @@
 
 ## 🧭 About Me
 
-💡 Focused on building scalable web applications and efficient system design.  
-🚀 Currently building a full-scale social media platform with AI-driven engagement.  
-🌱 Improving expertise in **TypeScript, Next.js, GraphQL, Docker, PostgreSQL, and Supabase**.  
-🤝 Interested in collaborating on entrepreneurial and open-source initiatives.  
-🧠 Continuous learner with a passion for modern engineering and architecture patterns.
+💡 Passionate about building scalable and performance-centric applications.  
+🚀 Currently building a modern and AI-driven social media platform.  
+🌱 Strengthening capabilities in **TypeScript, Next.js, Docker, PostgreSQL, and Supabase**.  
+🤝 Interested in collaborating on impactful open-source and product-focused projects.  
+🧠 Committed to continuous learning and engineering excellence.
 
 ---
 
@@ -34,12 +34,13 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=labsadik&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labsadik&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=labsadik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" height="165"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labsadik&layout=compact&theme=tokyonight&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=labsadik&theme=tokyonight" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=labsadik&theme=tokyonight" alt="streak"/>
 </p>
 
 ---
@@ -54,26 +55,26 @@
 
 ## 📂 Featured Projects
 
-🔹 [**Social Media Platform (Next.js + Supabase)**](https://profile.vercel.com) – A modern and scalable platform.  
-🔹 [**Portfolio Website**](https://profile.vercel.com) – A professional showcase of work and experience.  
-🔹 [**Open Source Contributions**](https://github.com/labsadik?tab=repositories) – Explore contributions and projects.
+🔹 [**Social Media Platform (Next.js + Supabase)**](https://profile.vercel.com)  
+🔹 [**Portfolio Website**](https://profile.vercel.com)  
+🔹 [**Open Source Contributions**](https://github.com/labsadik?tab=repositories)  
 
 ---
 
 ## 📝 Blog & Resume
 
-- ✍️ **Articles:** [profile.vercel.com/blog](https://profile.vercel.com/blog)  
-- 📄 **Resume:** [profile.vercel.com/resume](https://profile.vercel.com/resume)  
+- ✍️ Articles: [profile.vercel.com/blog](https://profile.vercel.com/blog)  
+- 📄 Resume: [profile.vercel.com/resume](https://profile.vercel.com/resume)  
 
 ---
 
 ## ☕ Fun Fact
 
-Great software is often powered by great coffee.
+Great engineering deserves great coffee.
 
 ---
 
 <p align="center">
-  <b>💬 Let’s connect and build something meaningful.</b><br/>
+  <b>Let’s connect and build something meaningful.</b><br/>
   <a href="https://linkedin.com/in/unscriptedsadik"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
