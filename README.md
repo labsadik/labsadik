@@ -38,7 +38,7 @@
 
 ## 📂 Featured Projects
 
-### 🛒 SmartShop – Responsive E-Commerce UI  
+### 🛒 MAISON – Responsive E-Commerce UI  
 🌐 **Live Demo:** https://responsive-e-commerce-theta.vercel.app/  
 
 A modern, responsive e-commerce frontend featuring:
