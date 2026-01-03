@@ -8,8 +8,8 @@
   <a href="https://github.com/labsadik">
     <img src="https://img.shields.io/badge/GitHub-labsadik-black?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:jr.sadiklaskar7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jr.sadiklaskar7@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
+  <a href="mailto:emailme.sadik@gmail.com">
+    <img src="https://img.shields.io/badge/Email-emailme.sadik@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://profile.vercel.com">
     <img src="https://img.shields.io/badge/Portfolio-Vercel-1DBF73?style=flat-square&logo=vercel&logoColor=white"/>
@@ -96,7 +96,7 @@ Hands-on projects, experiments, and open-source contributions.
 
 ## ☕ Fun Fact
 
-Great engineering is powered by curiosity—and coffee.
+Great engineering is powered by curiosity and coffee.
 
 ---
 
