@@ -11,8 +11,8 @@
   <a href="mailto:emailme.sadik@gmail.com">
     <img src="https://img.shields.io/badge/Email-emailme.sadik@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://profile.vercel.com">
-    <img src="https://img.shields.io/badge/Portfolio-Vercel-1DBF73?style=flat-square&logo=vercel&logoColor=white"/>
+  <a href="https://profile837e.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Netlify-1DBF73?style=flat-square&logo=netlify&logoColor=white"/>
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ## 🧭 About Me
 
-💡 Passionate about building scalable, performant, and user-centric applications.  
+💡 Passionate about building scalable, performant, and user-centric web applications.  
 🚀 Focused on modern frontend and full-stack engineering.  
 🌱 Currently strengthening skills in **TypeScript, React, Next.js, Docker, PostgreSQL, and Supabase**.  
 🤝 Open to collaborating on meaningful open-source and product-driven projects.  
@@ -39,12 +39,14 @@
 ## 📂 Featured Projects
 
 ### 🛒 MAISON – Responsive E-Commerce UI  
-🌐 **Live Demo:** https://responsive-e-commerce-theta.vercel.app/  
+🌐 **Live Demo:** https://responsive-e-commerce-theta.vercel.app/
 
-A modern, responsive e-commerce frontend featuring:
+A modern, responsive **frontend-only e-commerce application** focused on real-world UI behavior and performance. This project demonstrates clean component architecture, state management, and polished user experience without a backend or database.
+
+**Highlights:**
 - Reusable React components  
 - Cart functionality using Context API  
-- Search dialog  
+- Search dialog and filtering  
 - Smooth preloader animation  
 - Clean, scalable UI architecture  
 
@@ -52,8 +54,23 @@ A modern, responsive e-commerce frontend featuring:
 
 ---
 
+### 📋 Task Management System  
+🌐 **Live Demo:** https://task-management-chi-one.vercel.app/
+
+A modern, responsive **frontend-only task management application** that simulates a real productivity tool. Users can create, organize, search, and manage tasks using client-side state management and browser storage, delivering a realistic experience without backend or database integration.
+
+**Highlights:**
+- Task creation, status-based organization, and search  
+- Reusable React components  
+- Client-side persistence (local storage)  
+- Fully responsive and optimized UI  
+
+**Tech:** React · TypeScript · Tailwind CSS · Context API  
+
+---
+
 ### 🌐 Portfolio Website  
-🔗 [Profile ](https://profile837e.netlify.app/)) 
+🔗 [Profile](https://profile837e.netlify.app/)
 
 Personal portfolio showcasing projects, skills, and experience.
 
@@ -89,8 +106,8 @@ Hands-on projects, experiments, and open-source contributions.
 
 ## 📝 Blog & Resume
 
-- ✍️ Blog: https://profile.vercel.com/blog  
-- 📄 Resume: https://profile.vercel.com/resume  
+- ✍️ Blog: https://profile837e.netlify.app/blog  
+- 📄 Resume: https://profile837e.netlify.app/resume  
 
 ---
 
