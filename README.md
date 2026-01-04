@@ -53,7 +53,7 @@ A modern, responsive e-commerce frontend featuring:
 ---
 
 ### 🌐 Portfolio Website  
-🔗 [https://profile.vercel.com ](https://portfolio-beta-one-78.vercel.app/) 
+🔗 [Profile ](https://profile837e.netlify.app/)) 
 
 Personal portfolio showcasing projects, skills, and experience.
 
