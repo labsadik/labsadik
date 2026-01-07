@@ -38,6 +38,24 @@
 
 ## 📂 Featured Projects
 
+### 🧠 Code IDE — Browser-Based Development Environment  
+🌐 **Live Demo:** https://codeide-sigma.vercel.app/
+
+A **professional, VS Code–like browser-based IDE** that works fully client-side and offline-first. It delivers a real-world development experience directly in the browser, featuring multi-language support, code execution, file management, and a polished developer UI — without any backend services.
+
+**Highlights:**
+- Monaco Editor (VS Code engine)  
+- 60+ programming languages with syntax highlighting  
+- Right-click **Run Code** with terminal output  
+- File explorer with drag & drop support  
+- Live preview for HTML / CSS / JavaScript  
+- Dark / Light / System theme modes  
+- Offline persistence using IndexedDB  
+
+**Tech:** React · TypeScript · Monaco Editor · Vite · IndexedDB · Tailwind CSS  
+
+---
+
 ### 🛒 MAISON – Responsive E-Commerce UI  
 🌐 **Live Demo:** https://responsive-e-commerce-theta.vercel.app/
 
