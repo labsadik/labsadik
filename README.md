@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Sadik Laskar</h1>
-<h3 align="center">Software Development Engineer · Full-Stack Developer</h3>
+<h3 align="center">Software Engineer · Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/labsadik">
