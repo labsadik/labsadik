@@ -22,7 +22,7 @@
 
 ## 👋 About Me
 
-I am a **software development engineer** focused on building **scalable, high-performance, user-centric applications** with modern frontend and full-stack technologies.
+I am a **software engineer** focused on building **scalable, high-performance, user-centric applications** with modern frontend and full-stack technologies.
 
 - Strong foundation in **TypeScript, React, and modern UI architecture**
 - Experience building **production-ready frontend systems**
