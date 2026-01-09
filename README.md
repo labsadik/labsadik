@@ -1,116 +1,98 @@
-<!-- HEADER -->
-[![MasterHead](https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif)](https://github.com/labsadik)
+<!-- HERO -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif" width="100%" />
+</p>
 
-<h1 align="center">👋 Hey there, I'm <a href="https://github.com/labsadik" target="_blank">Sadik Laskar</a></h1>
-<h3 align="center">Software Development Engineer | Full-Stack Developer</h3>
+<h1 align="center">Sadik Laskar</h1>
+<h3 align="center">Software Development Engineer · Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/labsadik">
-    <img src="https://img.shields.io/badge/GitHub-labsadik-black?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-labsadik-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="mailto:emailme.sadik@gmail.com">
-    <img src="https://img.shields.io/badge/Email-emailme.sadik@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://profile837e.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Netlify-1DBF73?style=flat-square&logo=netlify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-1DBF73?style=for-the-badge&logo=netlify"/>
   </a>
 </p>
 
 ---
 
-## 🧭 About Me
+## 👋 About Me
 
-💡 Passionate about building scalable, performant, and user-centric web applications.  
-🚀 Focused on modern frontend and full-stack engineering.  
-🌱 Currently strengthening skills in **TypeScript, React, Next.js, Docker, PostgreSQL, and Supabase**.  
-🤝 Open to collaborating on meaningful open-source and product-driven projects.  
-🧠 Strong believer in clean code, continuous learning, and engineering excellence.
+I am a **software development engineer** focused on building **scalable, high-performance, user-centric applications** with modern frontend and full-stack technologies.
+
+- Strong foundation in **TypeScript, React, and modern UI architecture**
+- Experience building **production-ready frontend systems**
+- Passionate about **clean code, performance, and UX**
+- Actively learning **Next.js, Docker, PostgreSQL, Supabase**
 
 ---
 
-## 🧰 Tech Stack
+## 🛠 Core Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,docker,aws,git,linux,figma,vite,supabase,prisma,firebase,nginx" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,postgres,mongodb,tailwind,docker,aws,git,linux,vite,figma,supabase,prisma,firebase,nginx" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 🌦️ Weather App — Real-Time Forecast Dashboard  
-🌐 **Live Demo:** https://weather-forecast-nu-blue.vercel.app/
+### 🌦 Weather App — Real-Time Forecast Platform
+**Live:** https://weather-forecast-nu-blue.vercel.app/
 
-A modern, responsive weather application delivering real-time conditions, forecasts, air quality, and weather alerts using the **Open-Meteo API** (no API key required).
+A modern weather dashboard providing real-time conditions, forecasts, air quality, and alerts using the **Open-Meteo API**.
 
-**Highlights:**
-- Current weather with feels-like temperature and humidity  
-- Hourly (24h) and 7-day forecasts  
-- Wind speed, gusts, and direction compass  
-- UV index with safety categorization  
-- Air quality (AQI, PM2.5, PM10)  
-- Auto location detection with manual city search  
-- Dynamic backgrounds based on time of day  
-- Customizable, widget-based UI  
+**Key Features**
+- Real-time weather & forecasts (hourly + 7-day)
+- Air quality (AQI, PM2.5, PM10)
+- UV index with safety indicators
+- Auto-location + manual search
+- Dynamic UI based on time & conditions
 
-**Tech:** React · TypeScript · Tailwind CSS · Vite · Open-Meteo API  
+**Stack:** React · TypeScript · Tailwind CSS · Vite
 
 ---
 
-### 🧠 Code IDE — Browser-Based Development Environment  
-🌐 **Live Demo:** https://codeide-sigma.vercel.app/
+### 🧠 Code IDE — Browser-Based Development Environment
+**Live:** https://codeide-sigma.vercel.app/
 
-A professional, VS Code–like browser-based IDE that works fully client-side and offline-first.
+A professional, VS Code-like IDE running fully in the browser with offline support.
 
-**Tech:** React · TypeScript · Monaco Editor · Vite · IndexedDB · Tailwind CSS  
-
----
-
-### 🛒 MAISON – Responsive E-Commerce UI  
-🌐 **Live Demo:** https://responsive-e-commerce-theta.vercel.app/
-
-A modern, responsive frontend-only e-commerce application focused on real-world UI behavior.
-
-**Tech:** React · TypeScript · Vite · Context API · Responsive Design  
+**Stack:** React · TypeScript · Monaco Editor · IndexedDB · Vite
 
 ---
 
-### 📋 Task Management System  
-🌐 **Live Demo:** https://task-management-chi-one.vercel.app/
+### 🛒 MAISON — Responsive E-Commerce UI
+**Live:** https://responsive-e-commerce-theta.vercel.app/
 
-A modern frontend-only task management application with client-side persistence.
+Frontend-focused e-commerce UI with real-world UX patterns.
 
-**Tech:** React · TypeScript · Tailwind CSS · Context API  
-
----
-
-### 🌐 Portfolio Website  
-🔗 [Profile](https://profile837e.netlify.app/)
+**Stack:** React · TypeScript · Context API · Vite
 
 ---
 
-### 🧩 Open Source & Practice  
-🔗 https://github.com/labsadik?tab=repositories  
+### 📋 Task Management System
+**Live:** https://task-management-chi-one.vercel.app/
+
+Client-side task manager with persistent state and clean UI.
+
+**Stack:** React · TypeScript · Tailwind CSS
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=labsadik&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=labsadik&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="165"
-  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=labsadik&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labsadik&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=labsadik&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=labsadik&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -118,29 +100,26 @@ A modern frontend-only task management application with client-side persistence.
 ## 🏆 Achievements
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=labsadik&theme=tokyonight&no-frame=true&margin-w=10&row=1"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=labsadik&theme=tokyonight&no-frame=true&row=1"/>
 </p>
 
 ---
 
-## 📝 Blog & Resume
+## 📝 Writing & Resume
 
-- ✍️ Blog: https://profile837e.netlify.app/blog  
-- 📄 Resume: https://profile837e.netlify.app/resume  
+- Blog: https://profile837e.netlify.app/blog  
+- Resume: https://profile837e.netlify.app/resume  
 
 ---
 
-## ☕ Fun Fact
+## ☕ Philosophy
 
-Great engineering is powered by curiosity and coffee.
+> “Great engineering is driven by curiosity, discipline, and continuous learning.”
 
 ---
 
 <p align="center">
-  <b>Let’s connect and build something meaningful.</b><br/><br/>
   <a href="https://github.com/labsadik">
-    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
 </p>
