@@ -41,6 +41,14 @@ I am a **software development engineer** focused on building **scalable, high-pe
 
 ## 🚀 Featured Projects
 
+<p align="center">
+  <b>These are selected highlighted projects.</b><br/>
+  To explore more projects and case studies, visit:<br/>
+  👉 <a href="https://profile837e.netlify.app/projects"><b>https://profile837e.netlify.app/projects</b></a>
+</p>
+
+---
+
 ### 🌦 Weather App — Real-Time Forecast Platform
 **Live:** https://weather-forecast-nu-blue.vercel.app/
 
