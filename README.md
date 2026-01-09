@@ -60,16 +60,7 @@ A modern, responsive weather application delivering real-time conditions, foreca
 ### 🧠 Code IDE — Browser-Based Development Environment  
 🌐 **Live Demo:** https://codeide-sigma.vercel.app/
 
-A **professional, VS Code–like browser-based IDE** that works fully client-side and offline-first. It delivers a real-world development experience directly in the browser, featuring multi-language support, code execution, file management, and a polished developer UI — without any backend services.
-
-**Highlights:**
-- Monaco Editor (VS Code engine)  
-- 60+ programming languages with syntax highlighting  
-- Right-click **Run Code** with terminal output  
-- File explorer with drag & drop support  
-- Live preview for HTML / CSS / JavaScript  
-- Dark / Light / System theme modes  
-- Offline persistence using IndexedDB  
+A professional, VS Code–like browser-based IDE that works fully client-side and offline-first.
 
 **Tech:** React · TypeScript · Monaco Editor · Vite · IndexedDB · Tailwind CSS  
 
@@ -78,14 +69,7 @@ A **professional, VS Code–like browser-based IDE** that works fully client-sid
 ### 🛒 MAISON – Responsive E-Commerce UI  
 🌐 **Live Demo:** https://responsive-e-commerce-theta.vercel.app/
 
-A modern, responsive **frontend-only e-commerce application** focused on real-world UI behavior and performance. This project demonstrates clean component architecture, state management, and polished user experience without a backend or database.
-
-**Highlights:**
-- Reusable React components  
-- Cart functionality using Context API  
-- Search dialog and filtering  
-- Smooth preloader animation  
-- Clean, scalable UI architecture  
+A modern, responsive frontend-only e-commerce application focused on real-world UI behavior.
 
 **Tech:** React · TypeScript · Vite · Context API · Responsive Design  
 
@@ -94,13 +78,7 @@ A modern, responsive **frontend-only e-commerce application** focused on real-wo
 ### 📋 Task Management System  
 🌐 **Live Demo:** https://task-management-chi-one.vercel.app/
 
-A modern, responsive **frontend-only task management application** that simulates a real productivity tool. Users can create, organize, search, and manage tasks using client-side state management and browser storage, delivering a realistic experience without backend or database integration.
-
-**Highlights:**
-- Task creation, status-based organization, and search  
-- Reusable React components  
-- Client-side persistence (local storage)  
-- Fully responsive and optimized UI  
+A modern frontend-only task management application with client-side persistence.
 
 **Tech:** React · TypeScript · Tailwind CSS · Context API  
 
@@ -109,26 +87,30 @@ A modern, responsive **frontend-only task management application** that simulate
 ### 🌐 Portfolio Website  
 🔗 [Profile](https://profile837e.netlify.app/)
 
-Personal portfolio showcasing projects, skills, and experience.
-
 ---
 
 ### 🧩 Open Source & Practice  
 🔗 https://github.com/labsadik?tab=repositories  
-
-Hands-on projects, experiments, and open-source contributions.
 
 ---
 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=labsadik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labsadik&layout=compact&theme=tokyonight" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=labsadik&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=labsadik&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=labsadik&theme=tokyonight" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=labsadik&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
@@ -136,7 +118,9 @@ Hands-on projects, experiments, and open-source contributions.
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=labsadik&theme=discord&margin-w=10&no-frame=true" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=labsadik&theme=tokyonight&no-frame=true&margin-w=10&row=1"
+  />
 </p>
 
 ---
