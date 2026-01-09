@@ -38,6 +38,25 @@
 
 ## 📂 Featured Projects
 
+### 🌦️ Weather App — Real-Time Forecast Dashboard  
+🌐 **Live Demo:** https://weather-forecast-nu-blue.vercel.app/
+
+A modern, responsive weather application delivering real-time conditions, forecasts, air quality, and weather alerts using the **Open-Meteo API** (no API key required).
+
+**Highlights:**
+- Current weather with feels-like temperature and humidity  
+- Hourly (24h) and 7-day forecasts  
+- Wind speed, gusts, and direction compass  
+- UV index with safety categorization  
+- Air quality (AQI, PM2.5, PM10)  
+- Auto location detection with manual city search  
+- Dynamic backgrounds based on time of day  
+- Customizable, widget-based UI  
+
+**Tech:** React · TypeScript · Tailwind CSS · Vite · Open-Meteo API  
+
+---
+
 ### 🧠 Code IDE — Browser-Based Development Environment  
 🌐 **Live Demo:** https://codeide-sigma.vercel.app/
 
