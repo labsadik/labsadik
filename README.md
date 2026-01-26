@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-1DBF73?style=for-the-badge&logo=netlify"/>
   </a>
 </p>
-
 ---
 
 ## 👋 About Me
@@ -98,6 +97,7 @@ Client-side task manager with persistent state and clean UI.
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=labsadik&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labsadik&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
+
 ---
 
 ## 📝 Writing & Resume
