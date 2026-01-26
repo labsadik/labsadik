@@ -17,16 +17,17 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-1DBF73?style=for-the-badge&logo=netlify"/>
   </a>
 </p>
+
 ---
 
 ## 👋 About Me
 
-I am a **software engineer** focused on building **scalable, high-performance, user-centric applications** with modern frontend and full-stack technologies.
+I am a **software engineer** passionate about building **scalable, high-performance, user-centric applications**. I enjoy modern frontend and full-stack technologies, clean architecture, and high-quality code.
 
-- Strong foundation in **TypeScript, React, and modern UI architecture**
-- Experience building **production-ready frontend systems**
-- Passionate about **clean code, performance, and UX**
-- Actively learning **Next.js, Docker, PostgreSQL, Supabase**
+- Strong expertise in **TypeScript, React, and Next.js**
+- Experienced in **building production-ready web applications**
+- Passionate about **performance, accessibility, and UX**
+- Continuously learning **Docker, PostgreSQL, Supabase, and serverless architectures**
 
 ---
 
@@ -41,57 +42,57 @@ I am a **software engineer** focused on building **scalable, high-performance, u
 ## 🚀 Featured Projects
 
 <p align="center">
-  <b>These are selected highlighted projects.</b><br/>
-  To explore more projects and case studies, visit:<br/>
-  👉 <a href="https://profile837e.netlify.app/projects"><b>https://profile837e.netlify.app/projects</b></a>
+  <b>Highlighted projects</b><br/>
+  For more projects & case studies: <br/>
+  👉 <a href="https://profile837e.netlify.app/projects"><b>Portfolio Projects</b></a>
 </p>
 
 ---
 
 ### 🌦 Weather App — Real-Time Forecast Platform
-**Live:** https://weather-forecast-nu-blue.vercel.app/
+**Live:** [weather-forecast-nu-blue.vercel.app](https://weather-forecast-nu-blue.vercel.app/)
 
-A modern weather dashboard providing real-time conditions, forecasts, air quality, and alerts using the **Open-Meteo API**.
+A modern weather dashboard providing real-time forecasts, air quality, and alerts using **Open-Meteo API**.
 
-**Key Features**
-- Real-time weather & forecasts (hourly + 7-day)
+**Features**
+- Hourly + 7-day forecasts
 - Air quality (AQI, PM2.5, PM10)
-- UV index with safety indicators
-- Auto-location + manual search
-- Dynamic UI based on time & conditions
+- UV index indicators
+- Auto-location + search
+- Dynamic UI based on conditions
 
-**Stack:** React · TypeScript · Tailwind CSS · Vite
+**Tech Stack:** React · TypeScript · Tailwind CSS · Vite
 
 ---
 
 ### 🧠 Code IDE — Browser-Based Development Environment
-**Live:** https://codeide-sigma.vercel.app/
+**Live:** [codeide-sigma.vercel.app](https://codeide-sigma.vercel.app/)
 
-A professional, VS Code-like IDE running fully in the browser with offline support.
+A professional, VS Code-like IDE running entirely in the browser with offline support.
 
-**Stack:** React · TypeScript · Monaco Editor · IndexedDB · Vite
+**Tech Stack:** React · TypeScript · Monaco Editor · IndexedDB · Vite
 
 ---
 
 ### 🛒 MAISON — Responsive E-Commerce UI
-**Live:** https://responsive-e-commerce-theta.vercel.app/
+**Live:** [responsive-e-commerce-theta.vercel.app](https://responsive-e-commerce-theta.vercel.app/)
 
-Frontend-focused e-commerce UI with real-world UX patterns.
+Frontend-focused e-commerce UI replicating real-world UX patterns.
 
-**Stack:** React · TypeScript · Context API · Vite
+**Tech Stack:** React · TypeScript · Context API · Vite
 
 ---
 
 ### 📋 Task Management System
-**Live:** https://task-management-chi-one.vercel.app/
+**Live:** [task-management-chi-one.vercel.app](https://task-management-chi-one.vercel.app/)
 
-Client-side task manager with persistent state and clean UI.
+Client-side task manager with persistent state and clean, minimal UI.
 
-**Stack:** React · TypeScript · Tailwind CSS
+**Tech Stack:** React · TypeScript · Tailwind CSS
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=labsadik&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
@@ -102,8 +103,8 @@ Client-side task manager with persistent state and clean UI.
 
 ## 📝 Writing & Resume
 
-- Blog: https://profile837e.netlify.app/blog  
-- Resume: https://profile837e.netlify.app/resume  
+- Blog: [profile837e.netlify.app/blog](https://profile837e.netlify.app/blog)  
+- Resume: [profile837e.netlify.app/resume](https://profile837e.netlify.app/resume)  
 
 ---
 
