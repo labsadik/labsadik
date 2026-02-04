@@ -101,13 +101,6 @@ Client-side task manager with persistent state and clean, minimal UI.
 
 ---
 
-## 📝 Writing & Resume
-
-- Blog: [profile837e.netlify.app/blog](https://profile837e.netlify.app/blog)  
-- Resume: [profile837e.netlify.app/resume](https://profile837e.netlify.app/resume)  
-
----
-
 ## ☕ Philosophy
 
 > “Great engineering is driven by curiosity, discipline, and continuous learning.”
