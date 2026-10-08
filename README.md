@@ -1,17 +1,3 @@
-<!-- ========================================================= -->
-
-<!--                           HERO                            -->
-
-<!-- ========================================================= -->
-
-<p align="center">
-  <img
-    src="https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif"
-    width="100%"
-    alt="Sadik Laskar"
-  />
-</p>
-
 <h1 align="center">Sadik Laskar</h1>
 
 <p align="center">
@@ -19,20 +5,20 @@
 </p>
 
 <p align="center">
-  AI · Cloud · Realtime · Media · Systems · Developer Experience
+  AI · Backend Engineering · Cloud · Distributed Systems · Realtime · Media
 </p>
 
 <p align="center">
   <a href="https://github.com/labsadik">
     <img
       src="https://img.shields.io/badge/GitHub-labsadik-18181B?style=flat-square&logo=github&logoColor=white"
-      alt="GitHub"
+      alt="Sadik Laskar GitHub profile"
     />
   </a>
   <a href="mailto:emailme.sadik@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-Contact-E11D48?style=flat-square&logo=gmail&logoColor=white"
-      alt="Email"
+      alt="Contact Sadik Laskar"
     />
   </a>
 </p>
@@ -41,15 +27,15 @@
 
 ## About
 
-I’m a software engineer focused on building **reliable, scalable, and performance-oriented software** across the application, backend, and systems layers.
+I’m a **Software Engineer, Systems Engineer, and Full-Stack Developer** focused on building **scalable, reliable, secure, and high-performance software systems**.
 
-I work across modern web platforms, native applications, realtime software, AI-powered systems, cloud infrastructure, media pipelines, and developer tooling.
+My work spans **full-stack web development, backend engineering, systems programming, cloud computing, distributed systems, realtime applications, artificial intelligence, media infrastructure, and developer tooling**.
 
-My engineering priorities:
+I work across the entire software stack — from **C++ and Python systems** to **TypeScript, React, Next.js, Node.js, APIs, databases, cloud infrastructure, and DevOps platforms**.
 
-**Performance · Reliability · Security · Scalability · Maintainability · UX**
+I enjoy turning complex technical problems into **simple, maintainable, and production-ready software**.
 
-I enjoy taking complex technical requirements and turning them into systems that feel simple and predictable to use.
+**Performance · Reliability · Security · Scalability · Maintainability · Developer Experience · UX**
 
 ---
 
@@ -62,15 +48,15 @@ I enjoy taking complex technical requirements and turning them into systems that
 
 ### Systems & Performance
 
-C / C++ · Python · Realtime Processing · Simulation · Telemetry · State Management · Native Software · CLI Tooling · Performance Optimization
+C / C++ · Python · Linux · Realtime Processing · Simulation · Telemetry · Native Software · State Management · CLI Tooling · Performance Engineering
 
 </td>
 
 <td width="50%" valign="top">
 
-### Product & Backend
+### Full-Stack & Backend
 
-TypeScript · JavaScript · React · Next.js · Node.js · Express · REST APIs · Authentication · PostgreSQL · MongoDB · Redis
+TypeScript · JavaScript · React · Next.js · Node.js · Express · REST APIs · Authentication · PostgreSQL · MongoDB · Redis · Backend Architecture
 
 </td>
 
@@ -82,7 +68,7 @@ TypeScript · JavaScript · React · Next.js · Node.js · Express · REST APIs 
 
 ### AI & Developer Experience
 
-AI Applications · Realtime AI · Voice Interfaces · Agent Workflows · Context Systems · Developer Tooling · Terminal Interfaces
+Artificial Intelligence · AI Applications · Realtime AI · Voice Interfaces · AI Agents · Agent Workflows · Context Systems · Automation · Developer Tooling
 
 </td>
 
@@ -90,7 +76,7 @@ AI Applications · Realtime AI · Voice Interfaces · Agent Workflows · Context
 
 ### Cloud & Infrastructure
 
-AWS · Google Cloud · Azure · Tencent Cloud · Cloudflare · Docker · Kubernetes · Terraform · Nginx · Linux · CI/CD
+AWS · Google Cloud · Azure · Tencent Cloud · Cloudflare · Vercel · Docker · Kubernetes · Terraform · Nginx · Linux · CI/CD
 
 </td>
 
@@ -104,69 +90,69 @@ AWS · Google Cloud · Azure · Tencent Cloud · Cloudflare · Docker · Kuberne
 ### Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-2563EB?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" />
-  <img src="https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-2563EB?style=flat-square&logo=cplusplus&logoColor=white" alt="C++ programming" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python programming" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript development" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript development" />
+  <img src="https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk&logoColor=white" alt="Java programming" />
+  <img src="https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnubash&logoColor=white" alt="Bash scripting" />
 </p>
 
 ### Web & Application
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-0891B2?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-16A34A?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=111827" />
+  <img src="https://img.shields.io/badge/React-0891B2?style=flat-square&logo=react&logoColor=white" alt="React developer" />
+  <img src="https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js developer" />
+  <img src="https://img.shields.io/badge/Node.js-16A34A?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js backend development" />
+  <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" alt="Express.js development" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=111827" alt="Android development" />
 </p>
 
 ### Data & Backend
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-16A34A?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC2626?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-059669?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-334155?style=flat-square&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-F59E0B?style=flat-square&logo=firebase&logoColor=111827" />
+  <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL database" />
+  <img src="https://img.shields.io/badge/MongoDB-16A34A?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB database" />
+  <img src="https://img.shields.io/badge/Redis-DC2626?style=flat-square&logo=redis&logoColor=white" alt="Redis database and caching" />
+  <img src="https://img.shields.io/badge/Supabase-059669?style=flat-square&logo=supabase&logoColor=white" alt="Supabase backend" />
+  <img src="https://img.shields.io/badge/Prisma-334155?style=flat-square&logo=prisma&logoColor=white" alt="Prisma ORM" />
+  <img src="https://img.shields.io/badge/Firebase-F59E0B?style=flat-square&logo=firebase&logoColor=111827" alt="Firebase development" />
 </p>
 
 ### Cloud
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-F59E0B?style=flat-square&logo=amazonaws&logoColor=111827" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0EA5E9?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tencent%20Cloud-06B6D4?style=flat-square&logo=tencentcloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F97316?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-F59E0B?style=flat-square&logo=amazonaws&logoColor=111827" alt="Amazon Web Services AWS" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Platform" />
+  <img src="https://img.shields.io/badge/Azure-0EA5E9?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Tencent%20Cloud-06B6D4?style=flat-square&logo=tencentcloud&logoColor=white" alt="Tencent Cloud" />
+  <img src="https://img.shields.io/badge/Cloudflare-F97316?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ### Infrastructure
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-0EA5E9?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-6366F1?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-8B5CF6?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-16A34A?style=flat-square&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-EF4444?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0EA5E9?style=flat-square&logo=docker&logoColor=white" alt="Docker containers" />
+  <img src="https://img.shields.io/badge/Kubernetes-6366F1?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes orchestration" />
+  <img src="https://img.shields.io/badge/Terraform-8B5CF6?style=flat-square&logo=terraform&logoColor=white" alt="Terraform infrastructure as code" />
+  <img src="https://img.shields.io/badge/Nginx-16A34A?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-EF4444?style=flat-square&logo=git&logoColor=white" alt="Git version control" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions CI/CD" />
 </p>
 
 ### Realtime & Media
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WebSockets-111827?style=flat-square&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
-  <img src="https://img.shields.io/badge/HLS-111827?style=flat-square&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streaming-0891B2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Transcoding-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/CDN-F97316?style=flat-square" />
+  <img src="https://img.shields.io/badge/WebSockets-111827?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets realtime development" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg media processing" />
+  <img src="https://img.shields.io/badge/HLS-111827?style=flat-square&logo=apple&logoColor=white" alt="HLS video streaming" />
+  <img src="https://img.shields.io/badge/Streaming-0891B2?style=flat-square" alt="Video streaming" />
+  <img src="https://img.shields.io/badge/Transcoding-7C3AED?style=flat-square" alt="Video transcoding" />
+  <img src="https://img.shields.io/badge/CDN-F97316?style=flat-square" alt="Content delivery network" />
 </p>
 
 ---
@@ -180,7 +166,7 @@ AWS · Google Cloud · Azure · Tencent Cloud · Cloudflare · Docker · Kuberne
 
 ### AI Systems
 
-Realtime AI interaction, voice interfaces, contextual applications, intelligent workflows, and developer-oriented AI tooling.
+AI-powered applications, realtime AI interfaces, voice experiences, AI agents, intelligent workflows, context-aware systems, and developer-focused AI tools.
 
 </td>
 
@@ -188,7 +174,7 @@ Realtime AI interaction, voice interfaces, contextual applications, intelligent 
 
 ### Cloud Platforms
 
-Secure backend services, storage systems, distributed applications, realtime infrastructure, and cloud-native architectures.
+Scalable backend services, REST APIs, distributed applications, cloud-native architectures, storage systems, authentication services, and infrastructure platforms.
 
 </td>
 
@@ -196,7 +182,7 @@ Secure backend services, storage systems, distributed applications, realtime inf
 
 ### Systems Software
 
-Performance-sensitive applications, simulation, telemetry, native software, state-driven systems, and developer infrastructure.
+Performance-sensitive applications, C++ software, simulation, telemetry, realtime processing, native applications, state-driven systems, and developer infrastructure.
 
 </td>
 
@@ -208,23 +194,23 @@ Performance-sensitive applications, simulation, telemetry, native software, stat
 
 ### Media Infrastructure
 
-Video processing, transcoding, adaptive streaming, HLS delivery, playback, and CDN-aware systems.
+Video processing, FFmpeg pipelines, transcoding, HLS streaming, media delivery, playback systems, and CDN-aware architectures.
 
 </td>
 
 <td width="33%" valign="top">
 
-### Secure Platforms
+### Secure Software
 
-Authentication, authorization, access control, secure data boundaries, service policies, and transactional workflows.
+Authentication, authorization, access control, secure data boundaries, service policies, transactional workflows, and reliable backend systems.
 
 </td>
 
 <td width="33%" valign="top">
 
-### Product Experience
+### Product Engineering
 
-Responsive interfaces, interaction design, usability, developer experience, and simplifying complex technical systems.
+Responsive interfaces, frontend architecture, backend integration, developer experience, usability, interaction design, and product-focused engineering.
 
 </td>
 
@@ -240,14 +226,14 @@ Responsive interfaces, interaction design, usability, developer experience, and 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Performance-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Reliability-16A34A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Security-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scalability-0891B2?style=flat-square" />
-  <img src="https://img.shields.io/badge/UX-DB2777?style=flat-square" />
+  <img src="https://img.shields.io/badge/Performance-2563EB?style=flat-square" alt="Performance engineering" />
+  <img src="https://img.shields.io/badge/Reliability-16A34A?style=flat-square" alt="Reliable software" />
+  <img src="https://img.shields.io/badge/Security-7C3AED?style=flat-square" alt="Software security" />
+  <img src="https://img.shields.io/badge/Scalability-0891B2?style=flat-square" alt="Scalable software" />
+  <img src="https://img.shields.io/badge/UX-DB2777?style=flat-square" alt="User experience" />
 </p>
 
-> Build deeply. Design simply.
+> **Build deeply. Design simply.**
 
 ---
 
@@ -257,12 +243,12 @@ Responsive interfaces, interaction design, usability, developer experience, and 
   <img
     src="https://github-readme-stats.vercel.app/api?username=labsadik&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&text_color=6B7280&icon_color=16A34A"
     width="48%"
-    alt="GitHub statistics"
+    alt="Sadik Laskar GitHub statistics and developer activity"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=labsadik&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=6B7280"
     width="48%"
-    alt="Top languages"
+    alt="Sadik Laskar most used programming languages"
   />
 </p>
 
@@ -270,7 +256,7 @@ Responsive interfaces, interaction design, usability, developer experience, and 
   <img
     src="https://streak-stats.demolab.com?user=labsadik&theme=transparent&hide_border=true&ring=2563EB&fire=F97316&currStreakLabel=2563EB"
     width="60%"
-    alt="GitHub contribution streak"
+    alt="Sadik Laskar GitHub contribution streak"
   />
 </p>
 
@@ -282,7 +268,7 @@ Responsive interfaces, interaction design, usability, developer experience, and 
   <img
     src="https://raw.githubusercontent.com/labsadik/labsadik/output/snake.svg"
     width="100%"
-    alt="GitHub contribution graph"
+    alt="Sadik Laskar GitHub contribution graph"
   />
 </p>
 
@@ -292,11 +278,25 @@ Responsive interfaces, interaction design, usability, developer experience, and 
 
 <p align="center">
   <strong>
-    AI × Systems × Cloud × Realtime × Media × Developer Experience
+    AI × Systems × Cloud × Backend × Realtime × Media × Developer Experience
   </strong>
 </p>
 
-Exploring software that combines **deep technical engineering with polished product experiences** — from low-level systems and distributed infrastructure to intuitive interfaces and AI-native applications.
+Exploring the intersection of **artificial intelligence, systems engineering, distributed infrastructure, cloud computing, realtime software, and modern product development**.
+
+I’m particularly interested in building software that combines **deep technical engineering with excellent developer and user experience**.
+
+---
+
+## Areas of Interest
+
+<p align="center">
+  <strong>
+    Artificial Intelligence · Software Architecture · Distributed Systems · Systems Programming ·
+    Cloud Computing · Backend Engineering · Full-Stack Development · Realtime Applications ·
+    Media Infrastructure · Performance Engineering · Developer Tools
+  </strong>
+</p>
 
 ---
 
@@ -304,11 +304,11 @@ Exploring software that combines **deep technical engineering with polished prod
   <a href="https://github.com/labsadik">
     <img
       src="https://img.shields.io/badge/VIEW%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"
-      alt="View GitHub"
+      alt="View Sadik Laskar GitHub profile"
     />
   </a>
 </p>
 
 <p align="center">
-  <sub>Build deeply. Keep the experience simple.</sub>
+  <sub>Software Engineer building scalable systems, intelligent applications, and thoughtful products.</sub>
 </p>
