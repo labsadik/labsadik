@@ -2,34 +2,77 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Runs every 12 hours (at minute 0)
-    - cron: "0 */12 * * *"
-  workflow_dispatch: # Allows manual triggering
+    - cron: "0 */12 * * *"      # every 12 hours
+  workflow_dispatch:             # manual "Run workflow" button
+  push:
+    branches: [main, master]
+    paths: [".github/workflows/snake.yml"]
+
+# Explicit permissions: the job can push the "output" branch without any repo-settings change
+permissions:
+  contents: write
+
+# Never run two copies at once (prevents push conflicts)
+concurrency:
+  group: snake-animation
+  cancel-in-progress: false
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build-and-deploy:
     name: Generate and Deploy Snake SVG
     runs-on: ubuntu-latest
-    
-    # Opt into Node.js 24 to avoid deprecation warnings and future errors
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate snake animation from GitHub contributions
+      # Attempt 1 — a temporary GitHub/API hiccup must not turn the run red
+      - name: Generate snake animation
+        id: snake1
+        continue-on-error: true
         uses: Platane/snk@v3
         with:
-          github_user_name: labsadik
+          github_user_name: ${{ vars.GH_USER || github.repository_owner }}
           outputs: |
             dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
+      # Attempt 2 — automatic retry after a short wait, only if attempt 1 failed
+      - name: Wait before retry
+        if: steps.snake1.outcome == 'failure'
+        run: sleep 45
+
+      - name: Generate snake animation (retry)
+        if: steps.snake1.outcome == 'failure'
+        continue-on-error: true
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ vars.GH_USER || github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      # Deploy only when an SVG really exists — otherwise keep the previous snake untouched
       - name: Deploy to output branch
+        id: deploy
+        if: hashFiles('dist/snake.svg') != ''
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "chore: update snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Summary
+        if: always()
+        run: |
+          if [ -f dist/snake.svg ]; then
+            echo "✅ Snake animation generated and deployed to the \`output\` branch." >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "⚠️ GitHub was temporarily unavailable — the previous snake is kept. It will retry on the next schedule." >> "$GITHUB_STEP_SUMMARY"
+          fi
