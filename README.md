@@ -1,39 +1,16 @@
-<h1 align="center">Sadik Laskar</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Software Engineer · Systems Engineer · Full-Stack Developer</strong>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=170&section=header&text=Sadik%20Laskar&fontSize=46&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Systems%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=16&descAlignY=66" width="100%" alt="Sadik Laskar — Software Engineer · Systems Engineer · Full-Stack Developer" />
+
+**AI · Backend Engineering · Cloud · Distributed Systems · Realtime Systems · Media Infrastructure · Developer Tools**
+
+<p>
+  <a href="https://github.com/labsadik"><img src="https://img.shields.io/badge/GitHub-labsadik-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Sadik Laskar GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/sadiklaskar/"><img src="https://img.shields.io/badge/LinkedIn-Sadik%20Laskar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sadik Laskar LinkedIn" /></a>
+  <a href="mailto:emailme.sadik@gmail.com"><img src="https://img.shields.io/badge/Email-Professional%20Contact-E11D48?style=for-the-badge&logo=gmail&logoColor=white" alt="Professional email contact for Sadik Laskar" /></a>
 </p>
 
-<p align="center">
-  AI · Backend Engineering · Cloud · Distributed Systems · Realtime Systems · Media Infrastructure · Developer Tools
-</p>
-
-<p align="center">
-  <a href="https://github.com/labsadik">
-    <img
-      src="https://img.shields.io/badge/GitHub-labsadik-18181B?style=flat-square&logo=github&logoColor=white"
-      alt="Sadik Laskar GitHub profile"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/sadiklaskar/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Sadik%20Laskar-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
-      alt="Sadik Laskar LinkedIn"
-    />
-  </a>
-  <a href="mailto:emailme.sadik@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Professional%20Contact-E11D48?style=flat-square&logo=gmail&logoColor=white"
-      alt="Professional email contact for Sadik Laskar"
-    />
-  </a>
-  <a href="https://t.me/Igniveritas">
-    <img
-      src="https://img.shields.io/badge/Telegram-%40Igniveritas-229ED9?style=flat-square&logo=telegram&logoColor=white"
-      alt="Sadik Laskar Telegram contact"
-    />
-  </a>
-</p>
+</div>
 
 ---
 
@@ -47,7 +24,7 @@ I enjoy working across the stack — from **C++ and Python systems** to **TypeSc
 
 My engineering approach centers on:
 
-**Performance · Reliability · Security · Scalability · Maintainability · Developer Experience**
+<p align="center"><strong>Performance · Reliability · Security · Scalability · Maintainability · Developer Experience</strong></p>
 
 > **Build deeply. Keep the experience simple.**
 
@@ -57,7 +34,6 @@ My engineering approach centers on:
 
 <table width="100%">
 <tr>
-
 <td width="50%" valign="top">
 
 ### Systems & Performance
@@ -65,7 +41,6 @@ My engineering approach centers on:
 **C / C++ · Python · Linux · File Systems · Snapshot Storage · CLI Applications · Realtime Processing · State Management · Performance Engineering**
 
 </td>
-
 <td width="50%" valign="top">
 
 ### Full-Stack & Backend
@@ -73,11 +48,8 @@ My engineering approach centers on:
 **TypeScript · JavaScript · React · Next.js · Node.js · Express · REST APIs · Authentication · PostgreSQL · MongoDB · Redis**
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### AI & Developer Tools
@@ -85,7 +57,6 @@ My engineering approach centers on:
 **AI Applications · AI Chatbots · AI Agents · Streaming AI · Code Intelligence · Browser IDEs · Terminal Interfaces · Automation · Developer Experience**
 
 </td>
-
 <td width="50%" valign="top">
 
 ### Cloud, Realtime & Media
@@ -93,145 +64,39 @@ My engineering approach centers on:
 **AWS · Cloudflare · Supabase · Docker · Kubernetes · WebSockets · Socket.IO · RTMP · HLS · FFmpeg · Video Streaming · Transcoding · CDN**
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# Featured Projects
+## Pinned Repositories
 
-These are the projects I consider the strongest representation of my engineering work across **systems, realtime software, cloud platforms, AI, media infrastructure, and developer tooling**.
-
+<!--PINNED_START-->
 <table width="100%">
 <tr>
-
-<td width="50%" valign="top">
-
-### 01 · TreeVCS
-
-**Lightweight Tree-Based Version Control System**
-
-TreeVCS is a custom version-control system built around a **tree-structured snapshot model** with file hashing, staging, commits, branches, repository state, ignore rules, interactive CLI workflows, and standalone Windows packaging.
-
-**Technologies:** Python · Hashing · CLI · Windows · PyInstaller
-
-**License:** Proprietary / Source-Available
-
-<a href="https://github.com/labsadik/TreeVCS">
-  View Project →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 02 · OmniChat
-
-**Cross-Platform Realtime Communication Platform**
-
-OmniChat is a **Web + Mobile + API realtime communication system** with Socket.IO messaging, presence, typing indicators, authentication, shared backend services, monitoring, and containerized deployment.
-
-**Technologies:** TypeScript · React · React Native · Bun · Express · MongoDB · Socket.IO · Clerk · Sentry
-
-**License:** No `LICENSE` file present
-
-<a href="https://github.com/labsadik/OmniChat-High-Availability-Multi-Platform-Communication-Suite-Low-Latency-Custom-Socket-Engine">
-  View Project →
-</a>
-
-</td>
-
+<td width="50%" align="center" valign="top"><a href="https://github.com/labsadik/Tree-Version-Control-System-like-git-in-your-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=labsadik&theme=tokyonight&hide_border=true&border_radius=12&repo=Tree-Version-Control-System-like-git-in-your-system" alt="Tree-Version-Control-System-like-git-in-your-system" width="100%" /></a></td>
+<td width="50%" align="center" valign="top"><a href="https://github.com/labsadik/cloud-storage-application-inspired-by-Google-Drive"><img src="https://github-readme-stats.vercel.app/api/pin/?username=labsadik&theme=tokyonight&hide_border=true&border_radius=12&repo=cloud-storage-application-inspired-by-Google-Drive" alt="cloud-storage-application-inspired-by-Google-Drive" width="100%" /></a></td>
 </tr>
-
 <tr>
-
-<td width="50%" valign="top">
-
-### 03 · CloudVault
-
-**Cloud Storage & Video Delivery Platform**
-
-CloudVault is a modern cloud-storage application with **file and folder management, drag-and-drop uploads, previews, public sharing, storage statistics, authentication, CDN-backed storage, and video delivery**.
-
-**Technologies:** React · TypeScript · Vite · Supabase · PostgreSQL · Bunny Storage · Bunny Stream · Deno · Tailwind CSS
-
-**License:** MIT
-
-<a href="https://github.com/labsadik/CloudVault-Enterprise-Cloud-Storage-Engine-Adaptive-Video-Transcoding-Hub">
-  View Project →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 04 · AI Chatbot
-
-**Production-Oriented AI Assistant**
-
-A modern AI application using the **Next.js App Router and AI SDK ecosystem**, with streaming responses, persistent conversations, authentication, PostgreSQL, Redis, file handling, code editing, telemetry, and production-oriented tooling.
-
-**Technologies:** Next.js · TypeScript · AI SDK · AI Gateway · PostgreSQL · Drizzle · Redis · Vercel Blob · CodeMirror
-
-**License:** Apache-2.0
-
-<a href="https://github.com/labsadik/AI-Chatbot-Next.js-AI-SDK-">
-  View Project →
-</a>
-
-</td>
-
+<td width="50%" align="center" valign="top"><a href="https://github.com/labsadik/Live-Streaming-Platform-with-Nginx-RTMP-DB-and-HLS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=labsadik&theme=tokyonight&hide_border=true&border_radius=12&repo=Live-Streaming-Platform-with-Nginx-RTMP-DB-and-HLS" alt="Live-Streaming-Platform-with-Nginx-RTMP-DB-and-HLS" width="100%" /></a></td>
+<td width="50%" align="center" valign="top"><a href="https://github.com/labsadik/AI-Chatbot-Next.js-AI-SDK-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=labsadik&theme=tokyonight&hide_border=true&border_radius=12&repo=AI-Chatbot-Next.js-AI-SDK-" alt="AI-Chatbot-Next.js-AI-SDK-" width="100%" /></a></td>
 </tr>
-
 <tr>
-
-<td width="50%" valign="top">
-
-### 05 · Live Streaming Platform
-
-**RTMP-to-HLS Live Streaming Infrastructure**
-
-A live streaming platform built around **OBS ingestion, RTMP, HLS playback, dynamic stream keys, stream management, backend validation, and Windows/Linux deployment**.
-
-**Technologies:** Nginx-RTMP · RTMP · HLS · OBS · Supabase · Node.js · Express · HLS.js
-
-**License:** Apache license text is present; verify repository terms before redistribution
-
-<a href="https://github.com/labsadik/Live-Streaming-Production-Grade-Hub-for-Secure-Multi-Platform-HLS-Video-Pipelines">
-  View Project →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 06 · Code IDE
-
-**Offline Browser-Based Development Environment**
-
-A VS Code-inspired browser IDE with **Monaco Editor, 60+ language support, local project management, IndexedDB persistence, terminal workflows, live preview, keyboard shortcuts, ZIP import/export, and offline-first architecture**.
-
-**Technologies:** React · TypeScript · Monaco Editor · IndexedDB · Dexie · Vite · Tailwind CSS
-
-**License:** No `LICENSE` file present; README mentions MIT
-
-<a href="https://github.com/labsadik/Code-IDE-Browser-Based-Development-Environment">
-  View Project →
-</a>
-
-</td>
-
+<td width="50%" align="center" valign="top"><a href="https://github.com/labsadik/Code-IDE-Browser-Based-Development-Environment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=labsadik&theme=tokyonight&hide_border=true&border_radius=12&repo=Code-IDE-Browser-Based-Development-Environment" alt="Code-IDE-Browser-Based-Development-Environment" width="100%" /></a></td>
+<td width="50%" align="center" valign="top"><a href="https://github.com/labsadik/Realtime-Chat-App-Mobile-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=labsadik&theme=tokyonight&hide_border=true&border_radius=12&repo=Realtime-Chat-App-Mobile-Website" alt="Realtime-Chat-App-Mobile-Website" width="100%" /></a></td>
 </tr>
 </table>
+<!--PINNED_END-->
+
+<p align="center"><sub>Synced automatically with the repositories pinned on my GitHub profile.</sub></p>
 
 ---
 
-# Technology Stack
+## Technology Stack
 
-## Languages
+**Languages**
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/C%2B%2B-2563EB?style=flat-square&logo=cplusplus&logoColor=white" alt="C++ software engineering" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python development" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript development" />
@@ -240,9 +105,9 @@ A VS Code-inspired browser IDE with **Monaco Editor, 60+ language support, local
   <img src="https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnubash&logoColor=white" alt="Bash scripting" />
 </p>
 
-## Web & Application Development
+**Web & Application Development**
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/React-0891B2?style=flat-square&logo=react&logoColor=white" alt="React development" />
   <img src="https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js development" />
   <img src="https://img.shields.io/badge/Node.js-16A34A?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js backend development" />
@@ -252,9 +117,9 @@ A VS Code-inspired browser IDE with **Monaco Editor, 60+ language support, local
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=111827" alt="React Native development" />
 </p>
 
-## Data & Backend Infrastructure
+**Data & Backend Infrastructure**
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL database" />
   <img src="https://img.shields.io/badge/MongoDB-16A34A?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB database" />
   <img src="https://img.shields.io/badge/Redis-DC2626?style=flat-square&logo=redis&logoColor=white" alt="Redis caching" />
@@ -263,9 +128,9 @@ A VS Code-inspired browser IDE with **Monaco Editor, 60+ language support, local
   <img src="https://img.shields.io/badge/Firebase-F59E0B?style=flat-square&logo=firebase&logoColor=111827" alt="Firebase development" />
 </p>
 
-## Cloud & DevOps
+**Cloud & DevOps**
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/AWS-F59E0B?style=flat-square&logo=amazonaws&logoColor=111827" alt="Amazon Web Services" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Platform" />
   <img src="https://img.shields.io/badge/Azure-0EA5E9?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
@@ -278,9 +143,9 @@ A VS Code-inspired browser IDE with **Monaco Editor, 60+ language support, local
   <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white" alt="Linux engineering" />
 </p>
 
-## Realtime & Media
+**Realtime & Media**
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/WebSockets-111827?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets realtime software" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO realtime communication" />
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg media processing" />
@@ -291,11 +156,10 @@ A VS Code-inspired browser IDE with **Monaco Editor, 60+ language support, local
 
 ---
 
-# What I Build
+## What I Build
 
 <table width="100%">
 <tr>
-
 <td width="33%" valign="top">
 
 ### AI Systems
@@ -303,7 +167,6 @@ A VS Code-inspired browser IDE with **Monaco Editor, 60+ language support, local
 AI applications, AI chatbots, realtime AI experiences, intelligent workflows, agent systems, and developer-focused AI tools.
 
 </td>
-
 <td width="33%" valign="top">
 
 ### Backend & Cloud
@@ -311,7 +174,6 @@ AI applications, AI chatbots, realtime AI experiences, intelligent workflows, ag
 APIs, authentication systems, data services, cloud-native applications, storage platforms, infrastructure automation, and scalable backend architectures.
 
 </td>
-
 <td width="33%" valign="top">
 
 ### Systems Software
@@ -319,11 +181,8 @@ APIs, authentication systems, data services, cloud-native applications, storage 
 Version-control concepts, file systems, native applications, CLI tools, snapshot systems, realtime processing, and performance-sensitive software.
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="33%" valign="top">
 
 ### Realtime Applications
@@ -331,7 +190,6 @@ Version-control concepts, file systems, native applications, CLI tools, snapshot
 Realtime messaging, presence systems, WebSocket communication, event-driven applications, and cross-platform communication platforms.
 
 </td>
-
 <td width="33%" valign="top">
 
 ### Media Infrastructure
@@ -339,7 +197,6 @@ Realtime messaging, presence systems, WebSocket communication, event-driven appl
 Live streaming, RTMP ingestion, HLS playback, video transcoding, media delivery, and CDN-aware architectures.
 
 </td>
-
 <td width="33%" valign="top">
 
 ### Developer Experience
@@ -347,17 +204,14 @@ Live streaming, RTMP ingestion, HLS playback, video transcoding, media delivery,
 Browser IDEs, terminal interfaces, automation, development tooling, code workflows, and software designed to simplify complex engineering tasks.
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# Engineering Principles
+## Engineering Principles
 
-<p align="center">
-  <strong>Performance · Reliability · Security · Scalability · Maintainability</strong>
-</p>
+<p align="center"><strong>Performance · Reliability · Security · Scalability · Maintainability</strong></p>
 
 I prefer software architectures that are **clear, observable, secure, practical to operate, and capable of evolving with real-world requirements**.
 
@@ -365,48 +219,28 @@ I prefer software architectures that are **clear, observable, secure, practical 
 
 ---
 
-# GitHub Activity
+## GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=labsadik&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&text_color=6B7280&icon_color=16A34A"
-    width="48%"
-    alt="Sadik Laskar GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=labsadik&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=6B7280"
-    width="48%"
-    alt="Sadik Laskar most used programming languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=labsadik&show_icons=true&hide=contribs&theme=tokyonight&hide_border=true&border_radius=12" width="48%" alt="Sadik Laskar GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labsadik&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="48%" alt="Sadik Laskar most used programming languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=labsadik&theme=transparent&hide_border=true&ring=2563EB&fire=F97316&currStreakLabel=2563EB"
-    width="60%"
-    alt="Sadik Laskar GitHub contribution streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=labsadik&theme=tokyonight&hide_border=true&border_radius=12" width="60%" alt="Sadik Laskar GitHub contribution streak" />
+</p>
+
+### Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/labsadik/labsadik/output/snake.svg" width="100%" alt="Sadik Laskar GitHub contribution graph" />
 </p>
 
 ---
 
-# Contribution Graph
+## Current Focus
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/labsadik/labsadik/output/snake.svg"
-    width="100%"
-    alt="Sadik Laskar GitHub contribution graph"
-  />
-</p>
-
----
-
-# Current Focus
-
-<p align="center">
-  <strong>AI × Systems × Cloud × Backend × Realtime × Media × Developer Experience</strong>
-</p>
+<p align="center"><strong>AI × Systems × Cloud × Backend × Realtime × Media × Developer Experience</strong></p>
 
 I’m exploring the intersection of **artificial intelligence, software architecture, distributed systems, cloud infrastructure, realtime software, media technology, and developer tooling**.
 
@@ -414,62 +248,30 @@ My focus is on building software that combines **deep technical engineering with
 
 ---
 
-# Licensing & Product Use
+## Licensing & Product Use
 
-The featured projects have different licensing terms. Please check each repository before copying, modifying, redistributing, or commercializing code.
-
-| Project                     | License / Status                                          |
-| --------------------------- | --------------------------------------------------------- |
-| **TreeVCS**                 | **Proprietary / Source-Available**                        |
-| **OmniChat**                | **No `LICENSE` file present**                             |
-| **CloudVault**              | **MIT License**                                           |
-| **AI Chatbot**              | **Apache License 2.0**                                    |
-| **Live Streaming Platform** | **Apache license text present — verify repository terms** |
-| **Code IDE**                | **No `LICENSE` file present; README mentions MIT**        |
+My projects have different licensing terms. Please check each repository before copying, modifying, redistributing, or commercializing code.
 
 For **proprietary, unlicensed, or unclear-license projects**, permission should be obtained before reuse, redistribution, commercial use, or presenting the work as your own.
 
-### Product & Permission Contact
+**Product discussions, licensing & permission requests:** <a href="mailto:emailme.sadik@gmail.com">emailme.sadik@gmail.com</a>
 
-For **product discussions, project questions, licensing, permission requests, or quick messages**:
-
-<a href="https://t.me/Igniveritas">Telegram · @Igniveritas</a>
-
-For **professional opportunities, collaborations, business communication, and career-related contact**:
-
-<a href="https://www.linkedin.com/in/sadiklaskar/">LinkedIn · Sadik Laskar</a> <a href="mailto:emailme.sadik@gmail.com">Email · [emailme.sadik@gmail.com](mailto:emailme.sadik@gmail.com)</a>
+**Professional opportunities, collaborations & career-related contact:** <a href="https://www.linkedin.com/in/sadiklaskar/">LinkedIn · Sadik Laskar</a>
 
 ---
 
-# Connect
+## Connect
 
-<p align="center">
-  <a href="https://github.com/labsadik">
-    <img
-      src="https://img.shields.io/badge/GitHub-labsadik-111827?style=for-the-badge&logo=github&logoColor=white"
-      alt="Sadik Laskar GitHub"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/sadiklaskar/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Sadik Laskar LinkedIn professional profile"
-    />
-  </a>
-  <a href="mailto:emailme.sadik@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Professional%20Contact-E11D48?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Professional email for Sadik Laskar"
-    />
-  </a>
-  <a href="https://t.me/Igniveritas">
-    <img
-      src="https://img.shields.io/badge/Telegram-%40Igniveritas-229ED9?style=for-the-badge&logo=telegram&logoColor=white"
-      alt="Sadik Laskar Telegram"
-    />
-  </a>
+<div align="center">
+
+<p>
+  <a href="https://github.com/labsadik"><img src="https://img.shields.io/badge/GitHub-labsadik-111827?style=for-the-badge&logo=github&logoColor=white" alt="Sadik Laskar GitHub" /></a>
+  <a href="https://www.linkedin.com/in/sadiklaskar/"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sadik Laskar LinkedIn professional profile" /></a>
+  <a href="mailto:emailme.sadik@gmail.com"><img src="https://img.shields.io/badge/Email-Professional%20Contact-E11D48?style=for-the-badge&logo=gmail&logoColor=white" alt="Professional email for Sadik Laskar" /></a>
 </p>
 
-<p align="center">
-  <sub>Software Engineer building scalable systems, AI-powered applications, realtime platforms, media infrastructure, and developer tools.</sub>
-</p>
+<sub>Software Engineer building scalable systems, AI-powered applications, realtime platforms, media infrastructure, and developer tools.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=60&section=footer" width="100%" alt="" />
+
+</div>
