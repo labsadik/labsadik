@@ -7,7 +7,7 @@
 <p>
   <a href="https://github.com/labsadik"><img src="https://img.shields.io/badge/GitHub-labsadik-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Sadik Laskar GitHub profile" /></a>
   <a href="https://www.linkedin.com/in/sadiklaskar/"><img src="https://img.shields.io/badge/LinkedIn-Sadik%20Laskar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sadik Laskar LinkedIn" /></a>
-  <a href="mailto:emailme.sadik@gmail.com"><img src="https://img.shields.io/badge/Email-Professional%20Contact-E11D48?style=for-the-badge&logo=gmail&logoColor=white" alt="Professional email contact for Sadik Laskar" /></a>
+  <a href="mailto:jr.sadiklaskar7@gmail.com"><img src="https://img.shields.io/badge/Email-Professional%20Contact-E11D48?style=for-the-badge&logo=gmail&logoColor=white" alt="Professional email contact for Sadik Laskar" /></a>
 </p>
 
 </div>
@@ -254,7 +254,7 @@ My projects have different licensing terms. Please check each repository before 
 
 For **proprietary, unlicensed, or unclear-license projects**, permission should be obtained before reuse, redistribution, commercial use, or presenting the work as your own.
 
-**Product discussions, licensing & permission requests:** <a href="mailto:emailme.sadik@gmail.com">emailme.sadik@gmail.com</a>
+**Product discussions, licensing & permission requests:** <a href="mailto:jr.sadiklaskar7@gmail.com">jr.sadiklaskar7@gmail.com/a>
 
 **Professional opportunities, collaborations & career-related contact:** <a href="https://www.linkedin.com/in/sadiklaskar/">LinkedIn · Sadik Laskar</a>
 
