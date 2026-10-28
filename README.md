@@ -267,7 +267,7 @@ For **proprietary, unlicensed, or unclear-license projects**, permission should 
 <p>
   <a href="https://github.com/labsadik"><img src="https://img.shields.io/badge/GitHub-labsadik-111827?style=for-the-badge&logo=github&logoColor=white" alt="Sadik Laskar GitHub" /></a>
   <a href="https://www.linkedin.com/in/sadiklaskar/"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sadik Laskar LinkedIn professional profile" /></a>
-  <a href="mailto:emailme.sadik@gmail.com"><img src="https://img.shields.io/badge/Email-Professional%20Contact-E11D48?style=for-the-badge&logo=gmail&logoColor=white" alt="Professional email for Sadik Laskar" /></a>
+  <a href="mailto:jr.sadiklaskar7@gmail.com"><img src="https://img.shields.io/badge/Email-Professional%20Contact-E11D48?style=for-the-badge&logo=gmail&logoColor=white" alt="Professional email for Sadik Laskar" /></a>
 </p>
 
 <sub>Software Engineer building scalable systems, AI-powered applications, realtime platforms, media infrastructure, and developer tools.</sub>
