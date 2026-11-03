@@ -1,10 +1,3 @@
-<div align="center">
-
-[![Mail](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jr.sadiklaskar7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiklaskar/)
-
-</div>
-
 I build **reliable software** and the **systems behind it**, from **hardware** to **cloud**. I decide **how a product should be built**: the architecture, the security, and how it will **scale**.
 
 ### What I can do
@@ -69,6 +62,8 @@ I connect **hardware and software into one proper system**, across many industri
 
 <div align="center">
 
-**Proprietary / Commercial / Source-Available Licensing:** To get a license and use my projects, contact **jr.sadiklaskar7@gmail.com**
+### Proprietary / Commercial / Source-Available Licensing
+
+To get a license and use my projects, contact — **jr.sadiklaskar7@gmail.com**
 
 </div>
