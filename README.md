@@ -66,3 +66,9 @@ I connect **hardware and software into one proper system**, across many industri
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
+
+<div align="center">
+
+**Proprietary / Commercial / Source-Available Licensing:** To get a license and use my projects, contact **jr.sadiklaskar7@gmail.com**
+
+</div>
