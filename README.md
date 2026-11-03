@@ -7,8 +7,16 @@
 
 I build **reliable software** and the **systems behind it**, from **hardware** to **cloud**. I decide **how a product should be built**: the architecture, the security, and how it will **scale**.
 
-**What I can do:**
-**Software Engineering** · **System Design** · **Hardware & Embedded** · **IoT** · **Networking** · **Cybersecurity** · **AI & ML** · **Cloud & DevOps**
+### What I can do
+
+- **Software Engineering:** build clean, tested, production-ready backend, web, and mobile software
+- **System Design:** plan **scalable architecture** that is simple to run and ready to grow
+- **Hardware & Embedded:** write **low-level C/C++ code** that works close to devices and firmware
+- **IoT:** connect **devices to software** and move live data from sensors to the cloud
+- **Networking:** work with **TCP/IP, HTTP, WebSockets, and RTMP** for fast and stable communication
+- **Cybersecurity:** add **secure login, data protection, and safe APIs** at every layer
+- **AI & ML:** build **LLM apps and AI agents** and add AI into real products
+- **Cloud & DevOps:** set up **AWS, Google Cloud, Azure, Docker, and Kubernetes** with automatic releases
 
 I connect **hardware and software into one proper system**, across many industries.
 
